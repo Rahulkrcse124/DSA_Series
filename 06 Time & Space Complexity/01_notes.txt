@@ -1,0 +1,12 @@
+there are 3 types of time complexity
+   1: worth case: more the operation perform in the case (n operation)
+     denote Big O : represent O(n)
+   2: best case: most less operation perform in the case (1 operation)
+   3: average case: average operation perform in the case (n operation)
+
+    * if any operation takes the time more than 1second then occured error tle(time limit exceeded)
+
+
+
+space complexity: 
+    extra memory space take by an algorithm for input size    
