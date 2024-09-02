@@ -1,0 +1,13 @@
+           ::::singly circular Linkedlist:::
+in circular linkedlist tail is point to head meas tails is connnect with head
+in circular linkedlist null is not exist
+and circular linkedlist make the cycle
+         ::::tail.next = head:::
+
+
+        ::: doubly circular linkedlist
+in doubly circular linkedlist the next of tail point to head
+and the previous of head point to tail
+int doubly circular linkedlist null is not exist
+            ::: Head.prev = tail::
+           :: tail.next = head:::        
