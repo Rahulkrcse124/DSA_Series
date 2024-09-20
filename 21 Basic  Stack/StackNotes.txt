@@ -1,0 +1,9 @@
+filo based
+lifo based
+
+underFlow:  when our stack is fully empty but we want to perform the pop and peek operation
+          then ther will show be an arror as well as when our stack is empty then we can only perform the push operation and show the empty stack exception
+
+overFlow:  when  size of stack is fully full but we will try to perform the push 
+          operation then show the stack overflow error          
+         
