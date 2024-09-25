@@ -1,0 +1,1 @@
+in deque we can easily add , remove and peek from both side like starting and ending side
