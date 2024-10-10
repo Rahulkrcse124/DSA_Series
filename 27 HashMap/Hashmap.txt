@@ -1,0 +1,4 @@
+collosion: if different input gives the same output then called collosion and this is 
+give the collosion
+
+hashmap is a inordered
