@@ -1,0 +1,13 @@
+     :: hashset::
+(1):hashset is store the unique value
+(2):unordered
+(3):hashing internally
+
+
+
+
+
+
+:: LinkedHashset::
+(1): ordered of insertion is maintain
+(2): Linked list and hashtable
